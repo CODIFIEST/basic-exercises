@@ -1,0 +1,23 @@
+{
+  "name": "basic-exercises",
+  "version": "1.0.0",
+  "description": "1. Declare a function that takes 4 arguments, and adds them all together, and returns the sum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CODIFIEST/basic-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CODIFIEST/basic-exercises/issues"
+  },
+  "homepage": "https://github.com/CODIFIEST/basic-exercises#readme",
+  "dependencies": {
+    "chance": "^1.1.9",
+    "prompt-promise": "^1.0.3"
+  }
+}
